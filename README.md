@@ -1,5 +1,5 @@
 # Who Am I?
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, C++**
 - 🤔 I’m looking for help with **javascript**
 
 <!--
